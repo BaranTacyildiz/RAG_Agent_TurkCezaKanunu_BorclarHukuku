@@ -1,9 +1,0 @@
-langchain 
-langchain-text-splitters 
-langchain-community
-
-
-# after install requirements.txt also install:
-
-# pip install -U "langchain[openai]"
-# pip install -qU langchain-chroma
